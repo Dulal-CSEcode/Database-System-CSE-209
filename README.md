@@ -5,7 +5,7 @@ Welcome to the **Database Systems CSE-209** repository. This repository contains
 <br />  
 
 <p align="center">
-  <img src="databasesystembanner.PNG" alt="Database Systems Banner">
+  <img src="cse209banner.PNG" alt="Database Systems Banner">
 </p>  
 
 <br />  
